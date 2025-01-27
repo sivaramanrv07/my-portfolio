@@ -7,6 +7,8 @@
 	font-family: 'Poppins', sans-serif;
 	text-decoration: none;
 	list-style: none;
+	overflow: hidden;
+
 }
 
 
@@ -1196,7 +1198,7 @@ header.scrolled {
 }
 
 .gallery-main {
-	margin-top: 190px;
+	margin-top: 120px;
 	display: flex;
 	justify-content: center;
 	/* margin-bottom: 150px; */
@@ -1218,7 +1220,7 @@ header.scrolled {
 	flex-direction: row;
 	align-items: center;
 	justify-content: center;
-	margin-bottom: 100px;
+	margin-bottom: 40px;
 }
 
 .gallery-main .gallery-section .column .header .text {
